@@ -65,7 +65,7 @@ export const business = {
   heroText:
     "Authentic flavours, fresh ingredients and convenient pickup or delivery in selected Sydney suburbs.",
   // Use country code without +, spaces or brackets. Example Australia: 61412345678
-  whatsappNumber: "61422025047",
+  whatsappNumber: "61402274920",
   email: "orders@homemademasalakitchen.com",
   phoneDisplay: "0400 000 000",
   serviceArea:
