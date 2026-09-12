@@ -55,7 +55,18 @@ export const menuItems = [
     price: 10,
     image: "/images/banner.jpeg",
     available: true
-  }
+  },
+
+  {
+  id: 7,
+  name: "Apricot Delight",
+  category: "Desserts",
+  description:
+    "A rich, creamy and fruity homemade apricot dessert prepared with premium ingredients.",
+  price: 7.99,
+  image: "/images/apricot-delight.jpg",
+  available: true
+}
 ];
 
 export const business = {
